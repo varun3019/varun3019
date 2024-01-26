@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Varun V Rao</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN STACK Developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/varun3019?tab=repositories](https://github.com/varun3019?tab=repositories)
 
